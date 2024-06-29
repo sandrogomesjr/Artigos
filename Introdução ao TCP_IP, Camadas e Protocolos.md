@@ -2,7 +2,7 @@
 
 Criado em: 28 de maio de 2024 21:32
 
-Essa arquitetura TCP/IP teve o surgimento na década de 60, em um projeto militar que foi avançando para o centro acadêmico nas pesquisas cientificas. Depois foi implementada nas grandes empresas até chegar nas residências. Mas afinal, do que se trata esse modelo? Pense que, antes do surgimento da internet na qual conhecemos hoje, principalmente em momentos de guerra, era necessário um meio de comunicação. Daí surgiu este projeto, que é utilizado até hoje para transferência de dados. 
+A arquitetura TCP/IP surgiu na década de 1970, em um projeto militar que foi avançando para o centro acadêmico nas pesquisas cientificas. Depois foi implementada nas grandes empresas até chegar nas residências. Mas afinal, do que se trata esse modelo? Pense que, antes do surgimento da internet na qual conhecemos hoje, principalmente em momentos de guerra, era necessário um meio de comunicação. Daí surgiu este projeto, que é utilizado até hoje para transferência de dados. 
 
 Antes de tudo, vale ressaltar que este artigo é um resumo a grosso modo para não entrar em cálculos complexos, pois o intuito é fazer uma introdução do modelo TCP/IP e ao entendimento de como a informação é compartilhada. 
 
